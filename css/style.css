@@ -1,11 +1,106 @@
+@import url('https://fonts.googleapis.com/css?family=Pirata+One|Roboto:700i,|UnifrakturMaguntia');
+@import url('https://fonts.googleapis.com/css?family=Sanchez');
+
+div{
+    outline: 2px;
+}
+
 .container{
     width: 1366px;
-    height: 900px;
-    margin: 0;
-    background-color: red;
-    
+    height: 4143px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+ 
 }
 
 .head{
+    width: 1366px;
+    height: 990px;
+    float: left;
+    background-color: #403838;
+    background-image: url(hero.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+.header{
+    width: 1366px;
+    height: 126px;
+    float: left;
+}
+
+.links{
+    color: #ff2b00;
+    margin-top: 60px;
+    text-align: center;
+    font-family: 'Sanchez', serif;
+    font-size: 12pt;
+    letter-spacing: 10px;
+    
+}
+
+.heading{
+    font-family: 'Pirata One', cursive;
+    font-size: 100px;
+    color: #ff2b00;
+    letter-spacing: 30px;
+    margin-top: 300px;
+    text-align: center;
+    
+}
+
+.quote{
+    width: 1366px;
+    height: 900px;
+    float: left;
+}
+
+.big{
+    color: #ff2b00;
+    font-size: 80pt;
+    margin-left: 360px;
+    margin-right: 360px;
+    margin-top: 10px;
+    font-family: 'Roboto', sans-serif;
+    line-height: 70pt;
+}
+
+.small{
+    font-size: 10pt;
+    font-family: 'Sanchez', serif;
+    color: #ff2b00;
+    margin-left: 250px;
+    margin-top: 200px;
+    margin-right: 910px;
+    line-height: 12pt;
+}
+
+.different{
+    font-family: 'UnifrakturMaguntia', cursive;
+    font-size: 90pt;
+    margin-left: 500px;
+    color: black;
+}
+
+.arrow{
+    width: 1366px;
+    height: 450px;
+    float: left;
+}
+
+.st{
+    font-family: 'Roboto', sans-serif;
+    color: #ff2b00;
+    font-size: 14pt;
+    text-align: center;
+}
+
+.vl{
+    border-left: 2px solid #ff2b00;
+    height: 150px;
+    margin-left: 683px;
+    margin-top: 15px;
     
 }
