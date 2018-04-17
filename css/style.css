@@ -1,6 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Pirata+One|Roboto:700i,|UnifrakturMaguntia');
 @import url('https://fonts.googleapis.com/css?family=Sanchez');
 
+div{
+    outline: 1px dashed green;
+}
+
 .container{
     width: 1366px;
     height: 3760px;
@@ -8,6 +12,14 @@
     margin-right: auto;
     background-color: white;
  
+}
+
+.container2{
+    width: 1366px;
+    height: 1373px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: white;
 }
 
 .head{
@@ -156,4 +168,39 @@
     margin-left: 360px;
     margin-top: 225px;
     margin-right: 800px;
+}
+
+.abox{
+    width: 1366px;
+    height: 800px;
+    float: left;
+}
+
+.aboutt{
+    font-family: 'Sanchez', serif;
+    font-size: 12pt;
+    color: #ff2b00;
+    height: 410px;
+    width: 426px;
+    float: right
+}
+
+.cont{
+    width: 866px;
+    height: 410px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 130px;
+}
+
+.back{
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 5px;
+    font-size: 18pt;
+}
+
+.portrait{
+    height: 316px;
+    width: 316px;
+    background-color: #ff2b00;
 }
