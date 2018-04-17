@@ -204,3 +204,14 @@ div{
     width: 316px;
     background-color: #ff2b00;
 }
+
+a{
+    color: currentColor;
+    text-decoration: none;
+    
+}
+
+a:hover{
+     color: #ff2b00;
+    text-decoration: none;
+}
