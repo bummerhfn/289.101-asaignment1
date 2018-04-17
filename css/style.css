@@ -45,6 +45,15 @@ div{
     float: left;
 }
 
+.hspace{
+    height: 150px;
+    font-family: 'Roboto', sans-serif;
+    color: #ff2b00;
+    font-size: 70pt;
+    float: left;
+    margin-left: 221px;
+}
+
 .header{
     width: 1366px;
     height: 126px;
@@ -226,4 +235,54 @@ a{
 a:hover{
      color: #ff2b00;
     text-decoration: none;
+}
+
+.timage1{
+    width: 1366px;
+    height: 710px;
+    float: left;
+}
+
+.timage2{
+    width: 1366px;
+    height: 480px;
+    float: left
+}
+
+.timage3{
+    width: 1366px;
+    height: 470px;
+    float: left;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ttext1{
+    width: 1366px;
+    height: 220px;
+    float: left
+}
+
+.ttext2{
+    width: 1366px;
+    height: 173px;
+    float: left;
+}
+
+.t1{
+    font-family: 'Sanchez', serif;
+    font-size: 10pt;
+    color: #ff2b00;
+    margin-left: 221px;
+    margin-right: 691px;
+}
+
+.end{
+    width: 1366px;
+    height: auto;
+    float: left;
 }
