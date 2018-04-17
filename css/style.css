@@ -22,6 +22,12 @@ div{
     background-color: white;
 }
 
+.container3{
+    height: 2550px;
+    width: 1366px;
+    
+}
+
 .head{
     width: 1366px;
     height: 990px;
@@ -31,6 +37,12 @@ div{
     background-repeat: no-repeat;
     background-position: center;
     
+}
+
+.head3{
+    width: 1366px;
+    height: 128px;
+    float: left;
 }
 
 .header{
