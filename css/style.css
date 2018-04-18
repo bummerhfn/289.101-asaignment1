@@ -30,7 +30,6 @@ a:hover{
     height: 1373px;
     margin-right: auto;
     margin-left: auto;
-    background-color: white;
 }
 
 .container3{
@@ -200,6 +199,12 @@ a:hover{
        
 }
 
+.aboutbox{
+    width: 1366px;
+    height: 316px;
+    float: left;
+}
+
 .lbox{
     width: 646px;
     height: 120px;
@@ -242,39 +247,10 @@ a:hover{
     margin-right: 800px;
 }
 
-.abox{
-    width: 1366px;
-    height: 800px;
-    float: left;
-}
-
-.aboutt{
-    font-family: 'Sanchez', serif;
-    font-size: 12pt;
-    color: #ff2b00;
-    height: 410px;
-    width: 426px;
-    float: right
-}
-
-.cont{
-    width: 866px;
-    height: 410px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 130px;
-}
-
 .back{
     font-family: 'Roboto', sans-serif;
     letter-spacing: 5px;
     font-size: 18pt;
-}
-
-.portrait{
-    height: 316px;
-    width: 316px;
-    background-color: #ff2b00;
 }
 
 /*IMAGE BOXES*/
@@ -345,6 +321,23 @@ a:hover{
     margin-right: auto;
 }
 
+.portrait{
+    width: 866px;
+    height: 316px;
+    margin-left: 251px;
+}
+
+.aboutimage{
+    width: 316px;
+    height: 316px;
+    float: left;
+}
+
+.abc{
+    float: left;
+    overflow: visible;
+}
+
 /*TEXT STYLE*/
 
 .ttext1{
@@ -368,6 +361,12 @@ a:hover{
     margin-top: 0px;
 }
 
+.abouttext{
+    width: 426px;
+    height: 316px;
+    float: right;
+}
+
 .end{
     width: 1366px;
     height: 200px;
@@ -377,6 +376,12 @@ a:hover{
 .divider{
     width: 1366px;
     height: 100px;
+    float: left;
+}
+
+.divider2{
+    width: 1366px;
+    height: 235px;
     float: left;
 }
 
