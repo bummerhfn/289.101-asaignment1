@@ -23,7 +23,7 @@ div{
 }
 
 .container3{
-    height: 2550px;
+    height: 2530px;
     width: 1366px;
     margin-left: auto;
     margin-right: auto;   
@@ -47,12 +47,6 @@ div{
     
 }
 
-.head3{
-    width: 1366px;
-    height: 128px;
-    float: left;
-}
-
 .hspace{
     height: 150px;
     font-family: 'Roboto', sans-serif;
@@ -64,7 +58,8 @@ div{
 
 .header{
     width: 1366px;
-    
+    height: 150px;
+    float: left;
 }
 
 .links{
@@ -86,6 +81,30 @@ div{
     text-align: center;
     
 }
+
+.title{
+    font-family: 'Roboto', sans-serif;
+    color: #ff2b00;
+    font-size: 70pt;
+    margin-top: 0px;
+    margin-left: 251px;
+    
+}
+
+.titlebox{
+    width: 1366px;
+    height: 150px;
+    float: left;
+    
+}
+
+.openingp{
+    height: 175px;
+    width: 1366px;
+    float: left;
+}
+
+
 
 .quote{
     width: 1366px;
@@ -262,6 +281,18 @@ a:hover{
     float: left;
 }
 
+.iimage1{
+    width: 1366px;
+    height: 1225px;
+    float: left;
+}
+
+.iimage2{
+    width: 1366px;
+    height: 1300px;
+    float: left;
+}
+
 .center {
     display: block;
     margin-left: auto;
@@ -282,14 +313,21 @@ a:hover{
 
 .t1{
     font-family: 'Sanchez', serif;
-    font-size: 10pt;
+    font-size: 12pt;
     color: #ff2b00;
-    margin-left: 221px;
+    margin-left: 251px;
     margin-right: 691px;
+    margin-top: 0px;
 }
 
 .end{
     width: 1366px;
-    height: 220px;
+    height: 200px;
+    float: left;
+}
+
+.divider{
+    width: 1366px;
+    height: 100px;
     float: left;
 }
