@@ -307,15 +307,33 @@ a:hover{
     float: left;
 }
 
-.timage1{
+.ttimage1{
     width: 1366px;
     height: 1175px;
     float: left;
 }
 
-.timage2{
+.ttimage2{
     width: 1366px;
     height: 1150px;
+    float: left;
+}
+
+.cimage1{
+    width: 1366px;
+    height: 560px;
+    float: left;
+}
+
+.cimage2{
+    width: 1366px;
+    height: 1465px;
+    float: left;
+}
+
+.cimage3{
+    width: 1366px;
+    height: 900px;
     float: left;
 }
 
