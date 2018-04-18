@@ -1,11 +1,24 @@
 @import url('https://fonts.googleapis.com/css?family=Pirata+One|Roboto:700i,|UnifrakturMaguntia');
 @import url('https://fonts.googleapis.com/css?family=Sanchez');
 
+/*LINK STYLE*/
 
+a{
+    color: currentColor;
+    text-decoration: none;
+    
+}
+
+a:hover{
+    color: #ff2b00;
+    text-decoration: none;
+}
+
+/*CONTAINERS*/
 
 .container{
     width: 1366px;
-    height: 3760px;
+    height: 5080px;
     margin-left: auto;
     margin-right: auto;
     background-color: white;
@@ -173,7 +186,7 @@
 
 .nav{
     width: 1366px;
-    height: 800px;
+    height: 580px;
     float: left;
     
 }
@@ -264,16 +277,7 @@
     background-color: #ff2b00;
 }
 
-a{
-    color: currentColor;
-    text-decoration: none;
-    
-}
-
-a:hover{
-     color: #ff2b00;
-    text-decoration: none;
-}
+/*IMAGE BOXES*/
 
 .timage1{
     width: 1366px;
@@ -341,6 +345,8 @@ a:hover{
     margin-right: auto;
 }
 
+/*TEXT STYLE*/
+
 .ttext1{
     width: 1366px;
     height: 220px;
@@ -371,5 +377,17 @@ a:hover{
 .divider{
     width: 1366px;
     height: 100px;
+    float: left;
+}
+
+.bigdivider{
+    width: 1366px;
+    height: 400px;
+    float: left;
+}
+
+.mimage{
+    width: 1366px;
+    height: 740px;
     float: left;
 }
