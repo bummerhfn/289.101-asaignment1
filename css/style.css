@@ -36,6 +36,13 @@ div{
     margin-right: auto;
 }
 
+.container5{
+    width: 1366px;
+    height: 3100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .head{
     width: 1366px;
     height: 990px;
@@ -290,6 +297,18 @@ a:hover{
 .iimage2{
     width: 1366px;
     height: 1300px;
+    float: left;
+}
+
+.timage1{
+    width: 1366px;
+    height: 1175px;
+    float: left;
+}
+
+.timage2{
+    width: 1366px;
+    height: 1150px;
     float: left;
 }
 
