@@ -1,9 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Pirata+One|Roboto:700i,|UnifrakturMaguntia');
 @import url('https://fonts.googleapis.com/css?family=Sanchez');
 
-div{
-    outline: 1px dashed green;
-}
+
 
 .container{
     width: 1366px;
